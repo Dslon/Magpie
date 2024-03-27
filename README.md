@@ -11,7 +11,15 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Blinue/Magpie)](#acknowledgement-)
 [![GitHub all releases](https://img.shields.io/github/downloads/Blinue/Magpie/total)](https://github.com/Blinue/Magpie/releases)
 
+<<<<<<< HEAD
 </div>
+=======
+此分支是为了解决 [#218](https://github.com/Blinue/Magpie/issues/218)，支持触控操作。使用方法见 [#218(comment)](https://github.com/Blinue/Magpie/issues/218#issuecomment-980506414)。如果你想自己编译，记得在编译完成后给可执行文件**签名**。
+
+----
+
+Magpie 可以将任意窗口放大至全屏，支持多种高级缩放算法，如 Lanczos、[Anime4K](https://github.com/bloc97/Anime4K)、[FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)、[FSRCNNX](https://github.com/igv/FSRCNN-TensorFlow) 等。
+>>>>>>> origin/fix/touchTransform
 
 :earth_africa: **English** | [简体中文](./README_ZH.md)
 
